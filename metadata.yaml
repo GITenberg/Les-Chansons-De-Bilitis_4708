@@ -1,0 +1,35 @@
+_repo: Les-Chansons-De-Bilitis_4708
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Louÿs, Pierre
+    aliases:
+    - Louis, Pierre-Félix
+    - Chrysis, Pierre
+    - Louis, Pierre-Felix
+    - Pierre Louÿs
+    - Louys, Pierre
+    birthdate: 1870
+    deathdate: 1925
+    gutenberg_agent_id: '1554'
+    url: http://www.gutenberg.org/2009/agents/1554
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Lou%C3%BFs
+description: ''
+gutenberg_bookshelf:
+- FR Poésie
+- Banned Books from Anne Haight's list
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4708'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lesbians -- Poetry'
+- !lcc 'PQ'
+- !lcsh 'French poetry'
+- GITenberg
+title: Les Chansons De Bilitis
+url: http://www.gutenberg.org/ebooks/4708
